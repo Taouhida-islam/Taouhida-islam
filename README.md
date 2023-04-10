@@ -1,4 +1,4 @@
-(https://marketplace.canva.com/EAFUDhAHQMY/2/0/1600w/canva-blue-night-girl-cartoon-desktop-wallpaper-pGxnzsOWyrE.jpg)
+
 
 ### Hi there 👋
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is  Tuba islam
 #### I am a web designer 
-![I am a web designer ]
+![I am a web designer ](https://marketplace.canva.com/EAFUDhAHQMY/2/0/1600w/canva-blue-night-girl-cartoon-desktop-wallpaper-pGxnzsOWyrE.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
